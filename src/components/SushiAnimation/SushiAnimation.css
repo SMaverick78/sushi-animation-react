@@ -1,0 +1,19 @@
+.sushi-animation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  height: 100vh;
+  border: 10px solid #fdcb29;
+  box-sizing: border-box;
+  margin-top: 100vh;
+}
+
+.sushi-animation .heading {
+  color: #000;
+  font-family: raleway, sans-serif;
+  font-size: 2rem;
+  text-align: center;
+  width: 100%;
+}
